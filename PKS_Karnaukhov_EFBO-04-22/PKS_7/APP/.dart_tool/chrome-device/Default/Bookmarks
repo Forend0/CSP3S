@@ -1,0 +1,84 @@
+{
+   "checksum": "62272f1cc85e14d968dd83666e913f1e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13304014319111056",
+            "date_last_used": "0",
+            "guid": "0f1d8c67-ad84-494b-8b79-aae94d377fbf",
+            "id": "6",
+            "name": "Авиабилеты",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=553&clid=2413651-88&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru",
+            "visit_count": 0
+         }, {
+            "date_added": "13304014319111056",
+            "date_last_used": "0",
+            "guid": "4f5a534c-e6bb-4765-8596-534471c5a0a0",
+            "id": "7",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=553&clid=2413651-88&from=dist_bookmark",
+            "visit_count": 0
+         }, {
+            "date_added": "13329718453371451",
+            "date_last_used": "0",
+            "guid": "27d57e9f-2283-41fb-9a9b-dcf44abe539c",
+            "id": "8",
+            "name": "Яндекс Маркет",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=595&clid=2337908-326",
+            "visit_count": 0
+         }, {
+            "date_added": "13329718453371451",
+            "date_last_used": "0",
+            "guid": "1d435829-ddd6-4fed-af6e-7582c5fcdd8c",
+            "id": "9",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.ya.ru/?win=595&clid=2337911-326&from=dist_bookmark",
+            "visit_count": 0
+         } ],
+         "date_added": "13379629064233391",
+         "date_last_used": "0",
+         "date_modified": "13329718453371451",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель избранного",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13379629064233395",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другое избранное",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13379629064233397",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Избранное на мобильных устройствах",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCJewTv+TAQAAKg4QABgBIAAoBTAAOABAABIAKhhaK0xWNS9CUlRIcEU2Wm5ZQ2tQZWdBPT1IA6AGDBKtAQgJEqgBChxKS0p1RXBhenhWNzFxazVvOWtmSTNod2I5MGc9EiQxZDQzNTgyOS1kZGQ2LTRmZWQtYWY2ZS03NTgyYzVmY2RkOGMYACAAKAAwpP2Km6IyOO//ipuiMkDv/4qbojJKHENzdnBvaTNQS2VYeDZRWjNWVkpVYnM4TW5kQT1aHyIdrDRkTWxqZzhLdmlGM3JuT3RLQW1hNS8valN3MD1lAAAAAMI+AmAFEqwBCAgSpwEKHDNuQ24vYll5c1d2Sk1VcDd1aWlqRmRhUldlUT0SJDI3ZDU3ZTlmLTIyODMtNDFmYi05YTliLWRjZjQ0YWJlNTM5YxgAIAAoADCj/YqbojI40f+Km6IyQNH/ipuiMkocWjlSYmo1dStRM0l5RktuYnM2UlBhcGNsZGdjPVoeIhxZVFcxVUtrRTNJK0RJdTlORDY3cDZRWlhHakk9ZQAAAADCPgJgBRKsAQgGEqcBChxSUnNWbU5XYkxHYVV4SDc3Wm5acHZBdUFPeDg9EiQwZjFkOGM2Ny1hZDg0LTQ5NGItOGI3OS1hYWU5NGQzNzdmYmYYACAAKAAw16bdw7AwOPym3cOwMED8pt3DsDBKHDAwU2tBNmtrSFVQZmxNanJaVngwVG5XVlRJST1aHiIcUldYeXI3Uy9XQmwyNUUwSnlpYjBvVk1Xc1ZRPWUAAAAAwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkOGEzMDcwNmQtZjQzNi01NjcxLWI0ZDUtNzM5NmU4NzA0MTk3GAAgACgAMIuf3cOwMDj76MvRgDBA++jL0YAwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDNhYjRjN2FmLTY5ZWItNTNiNy1hZjkxLThlZTU2ZWI2OTQzNRgAIAAoADCLn93DsDA4i+nL0YAwQIvpy9GAMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKsAQgHEqcBChxPd00rNlVLcXFUU05Rb2xVZ1JteGExVUw3UWc9EiQ0ZjVhNTM0Yy1lNmJiLTQ3NjUtODU5Ni01MzQ0NzFjNWEwYTAYACAAKAAw16bdw7AwOOym3cOwMEDspt3DsDBKHDRLNFpHNk1QR2o2SWZYZnhzdkR0aStmSmVpMD1aHiIcWGZYR09QQS8yVzM5Z1BOblUvRHp6ZUk1YVZnPWUAAAAAwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkOGVkODU2NjYtNDdlZS01OTI0LTk3ZTgtOWU1YzBlYTUzZTEyGAAgACgAMIuf3cOwMDir7svRgDBAq+7L0YAwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
